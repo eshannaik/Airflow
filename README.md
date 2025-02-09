@@ -14,15 +14,6 @@ ETL Flow -
 - Load - Load the data into a database
 - Monitor → Use ELK to track logs and system performance.
 
-Setup -
-- Download the following packages
-  - Tweepy -> access data from the Twitter API
-  - dotenv -> load config file ( stores your API keys )
-- For the config file
-  - Store it in a folder (Example - dags/config/.env)
-  - Store all the API keys
-  - API Keys can be got from the TwitterAPI website ( https://developer.x.com/en/portal/dashboard )
-
 This project is licensed under the MIT License
 
 
