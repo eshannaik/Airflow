@@ -6,3 +6,8 @@ Setup -
   - Store it in a folder (Example - dags/config/.env)
   - Store all the API keys
   - API Keys can be got from the TwitterAPI website ( https://developer.x.com/en/portal/dashboard )
+ 
+ETL flow -
+- Authentication
+- getData
+- insertData
